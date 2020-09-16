@@ -17,3 +17,5 @@ Based on both of these scatterplots, there is a very little change in cloudiness
 
 ### 2. Temperatures and the Latitudinal Location do have a relationship
 ![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93275160-c4093100-f781-11ea-8c47-b0de7f1de0dd.png)
+
+As the cities move closer to the equator from both hemispheres, the maximum temperature tends to rise. There seems to be a greater correlation between how close the city is to the equator and its corresponding temperature. 
