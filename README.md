@@ -9,14 +9,14 @@ With the CSV file from the previous practice, we used Google Places API to gener
 
 ## Three Observable Conclusions based on Data:
 ### 1. Cloudiness
-![SHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93274964-362d4600-f781-11ea-9468-c29f98bce462.png)
+![SHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93403828-2d567600-f84e-11ea-8088-efbc3e144c70.png)
 
-![NHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93274995-48a77f80-f781-11ea-9c4a-e9462e7e1435.png)
+![NHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93403829-2def0c80-f84e-11ea-96c9-c27c5457a9b1.png)
 
-Based on both of these scatterplots, there is a very little change in cloudiness going from the South Pole to the equator, and also in the opposite direction. In the Northern Hemisphere to the equator, the linear regression has a very low slope value.
+Based on both of these scatterplots, it seems that when the cities get closer to the equator, the cloudier it becomes. This could also be due to the weather and currently it being a rainy season and hence, more clouds.
 
 ### 2. Temperatures
-![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93275160-c4093100-f781-11ea-8c47-b0de7f1de0dd.png)
+![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93404001-af469f00-f84e-11ea-9bab-1582edb8d56b.png)
 
 As the cities move closer to the equator from both hemispheres, the maximum temperature tends to rise. There seems to be a greater correlation between how close the city is to the equator and its corresponding temperature. 
 
