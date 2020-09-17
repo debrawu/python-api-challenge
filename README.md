@@ -9,21 +9,23 @@ With the CSV file from the previous practice, we used Google Places API to gener
 
 ## Three Observable Conclusions based on Data:
 ### 1. Cloudiness
-![SHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93403828-2d567600-f84e-11ea-8088-efbc3e144c70.png)
+![CityLatvsCloudiness](https://user-images.githubusercontent.com/65466578/93414030-1d4a9080-f866-11ea-862a-0982c894a258.png)
 
-![NHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93403829-2def0c80-f84e-11ea-96c9-c27c5457a9b1.png)
+![NHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93414027-1d4a9080-f866-11ea-9c11-c6543a4b2d48.png)
+
+![SHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93414025-1cb1fa00-f866-11ea-9534-ff9c54d671f4.png)
 
 Based on both of these scatterplots, it seems that when the cities get closer to the equator, the cloudier it becomes. This could also be due to the weather and currently it being a rainy season and hence, more clouds.
 
 ### 2. Temperatures
-![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93404001-af469f00-f84e-11ea-9bab-1582edb8d56b.png)
+![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93414075-34897e00-f866-11ea-89fa-89c241f42ab8.png)
 
 As the cities move closer to the equator from both hemispheres, the maximum temperature tends to rise. There seems to be a greater correlation between how close the city is to the equator and its corresponding temperature. 
 
 ### 3. Wind Speed
-![SHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93404053-d00ef480-f84e-11ea-8b21-db2346b65a2e.png)
+![NHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93414099-41a66d00-f866-11ea-874c-d87b840d2f8d.png)
 
-![NHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93404054-d0a78b00-f84e-11ea-9840-0b1ebc03f2ab.png)
+![SHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93414100-423f0380-f866-11ea-8599-9086b30e4685.png)
 
 In regards to wind speed, in the Northern Hemisphere, there seems to be little effect on the latitudinal location and the corresponding windspeend. However, with the Southern Hemisphere, as the location gets closer to the equator, the wind speed seems to be greater. 
 
