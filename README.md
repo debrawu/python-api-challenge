@@ -27,5 +27,5 @@ As the cities move closer to the equator from both hemispheres, the maximum temp
 
 ![SHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93414100-423f0380-f866-11ea-8599-9086b30e4685.png)
 
-In regards to wind speed, in the Northern Hemisphere, there seems to be little effect on the latitudinal location and the corresponding windspeend. However, with the Southern Hemisphere, as the location gets closer to the equator, the wind speed seems to be greater. 
+In regards to wind speed, in the Northern Hemisphere, there seems to be little effect on the latitudinal location and the corresponding windspeend. However, with the Southern Hemisphere, as the location gets closer to the equator, the wind speed seems to be lesser. 
 
