@@ -21,9 +21,9 @@ Based on both of these scatterplots, it seems that when the cities get closer to
 As the cities move closer to the equator from both hemispheres, the maximum temperature tends to rise. There seems to be a greater correlation between how close the city is to the equator and its corresponding temperature. 
 
 ### 3. Wind Speed
-![SHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93290114-9a620100-f7a5-11ea-8a01-2fcbcb873108.png)
+![SHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93404053-d00ef480-f84e-11ea-8b21-db2346b65a2e.png)
 
-![NHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93290115-9afa9780-f7a5-11ea-97c8-61a003995728.png)
+![NHWindSpeedvsLatitude](https://user-images.githubusercontent.com/65466578/93404054-d0a78b00-f84e-11ea-9840-0b1ebc03f2ab.png)
 
 In regards to wind speed, in the Northern Hemisphere, there seems to be little effect on the latitudinal location and the corresponding windspeend. However, with the Southern Hemisphere, as the location gets closer to the equator, the wind speed seems to be greater. 
 
