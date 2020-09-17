@@ -15,7 +15,7 @@ With the CSV file from the previous practice, we used Google Places API to gener
 
 ![SHCloudinessvsLatitude](https://user-images.githubusercontent.com/65466578/93414025-1cb1fa00-f866-11ea-9534-ff9c54d671f4.png)
 
-Based on both of these scatterplots, it seems that when the cities get closer to the equator, the cloudier it becomes. This could also be due to the weather and currently it being a rainy season and hence, more clouds.
+Between the North and South approaching the equator, the from the equator to the North seems to have little to no relationship on cloudiness, but there is more a distinct linear correlation when moving from the South to the equator. 
 
 ### 2. Temperatures
 ![CityLatvsMaxTemp](https://user-images.githubusercontent.com/65466578/93414075-34897e00-f866-11ea-89fa-89c241f42ab8.png)
